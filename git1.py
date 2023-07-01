@@ -7,3 +7,5 @@ print("Hello mahadev")
 
 
 print("Helllo SSSSS")
+
+print("mine mine")
